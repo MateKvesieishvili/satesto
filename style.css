@@ -1,0 +1,18 @@
+.main_container{
+    max-width: 1200px;
+    margin-inline: auto;
+}
+.contanier{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin-top: 120px;
+}
+.link{
+   text-decoration: none; 
+}
+.gilaki{
+    width: 120px;
+    height: 50px;
+    background-color: aqua;
+}
