@@ -1,7 +1,9 @@
+/* მთავარი კონტეინერის სტილები */
 .main_container{
     max-width: 1200px;
     margin-inline: auto;
 }
+/* კონტეინერის სტილები */
 .contanier{
     width: 500px;
     height: 500px;
